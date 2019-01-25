@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tslPrimary">#424249</color>
+    <color name="tslPrimaryDark">#29282d</color>
+    <color name="tslAccent">#f78c1c</color>
+</resources>
